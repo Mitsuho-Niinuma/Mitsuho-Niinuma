@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-labelledby="title desc">
+<title id="title">Mitsu. Small details. Stronger foundations.</title>
+<desc id="desc">A cream and ink developer notebook cover with a coral accent and an abstract path connecting observe, question and verify.</desc>
+<defs>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#24364B" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1280" height="390" rx="24" fill="#F7F4ED"/>
+<rect width="1280" height="390" rx="24" fill="url(#grid)"/>
+<path d="M48 48H74" stroke="#E5785C" stroke-width="6" stroke-linecap="round"/>
+<text x="92" y="55" fill="#526171" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" letter-spacing="2.5">THE SECURITY NOTEBOOK</text>
+<text x="55" y="209" fill="#24364B" font-family="Georgia,'Times New Roman',serif" font-size="140" letter-spacing="-8">Mitsu<tspan fill="#E5785C">.</tspan></text>
+<text x="60" y="273" fill="#24364B" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="28" font-weight="500">Small details. Stronger foundations.</text>
+<text x="61" y="337" fill="#526171" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" letter-spacing="1.7">UTS STUDENT · ASPIRING SECURITY ENGINEER</text>
+<g fill="none" stroke="#24364B" stroke-width="2">
+  <path d="M848 104H1002Q1060 104 1060 164V200Q1060 260 1120 260H1200" stroke-dasharray="5 8" opacity=".3"/>
+  <path d="M796 284H856Q914 284 914 226V175Q914 126 969 126H1170"/>
+  <circle cx="796" cy="284" r="9" fill="#F7F4ED"/>
+  <circle cx="969" cy="126" r="9" fill="#E5785C" stroke="#E5785C"/>
+  <circle cx="1170" cy="126" r="9" fill="#F7F4ED"/>
+</g>
+<g fill="#526171" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" letter-spacing="1.5">
+  <text x="758" y="322">01 OBSERVE</text>
+  <text x="906" y="91">02 QUESTION</text>
+  <text x="1108" y="166">03 VERIFY</text>
+</g>
+<g transform="translate(1182 304)" stroke="#E5785C" stroke-width="2.5" stroke-linecap="round"><path d="M-15 0H15M0-15V15M-10-10L10 10M-10 10L10-10"/></g>
+</svg>
